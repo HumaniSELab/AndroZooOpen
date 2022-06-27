@@ -3,6 +3,8 @@
 AndroZooOpen is a growing collection of Open-Source Android Applications collected
 from several sources, including Github, Gitlab and Bitbucket.
 
+More information: https://www.monash.edu/it/humanise-lab/projects/current-projects/strengthening-android-app-qualities-through-mining-android-frameworks-and-apps
+
 ## Attributes: androzooopen.csv
 data\_source, entry, num\_commits, num\_branches, num\_packages, num\_releases, num\_stars, create\_time, update\_time, push\_time, num\_contributors, package\_name, on\_googleplay, on\_androzoo, on\_fdroid, has\_test, has\_kotlin, email\_address, has\_ndk:  Those are what you think they are.
 
